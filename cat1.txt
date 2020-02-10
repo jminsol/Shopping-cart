@@ -1,0 +1,5 @@
+A1 5000 basic phone
+
+B2 7500 better camera, more memory
+
+C3 20000 even better camera, even more memory
